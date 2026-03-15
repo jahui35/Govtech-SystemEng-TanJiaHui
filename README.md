@@ -128,7 +128,7 @@ I took a **structured, safety-first approach** to this assessment:
 
 3. **Academic Integrity Nuance**: Distinguishing between allowed items (personal textbooks) and prohibited materials (lecture notes, exam papers) required careful test case wording to avoid false positives while enforcing policy.
 
-**What I Learned**: Testing GenAI prompts is fundamentally different from traditional software testing. Success requires thinking in terms of semantic intent, policy boundaries, and graceful degradation—not just exact output matching. This shifted my mindset from "does it work?" to "does it work safely and helpfully?"
+**What I Learned**: Testing GenAI prompts is fundamentally different from traditional software testing. Success requires thinking in terms of semantic intent, policy boundaries, and graceful degradation, instead of just exact output matching. This shifted my mindset from "does it work?" to "does it work safely and helpfully?"
 
 ---
 
@@ -157,11 +157,11 @@ I took a **structured, safety-first approach** to this assessment:
 
 ### As a Seller
 - **Listing Friction**: I've abandoned listings when unsure what details to include. A guided posting flow (like the one in `prompt.md`) would have reduced this friction.
-- **Ghosting Encounters**: On top of sellers, i've experienced no-show buyers, highlighting the need for reminder notifications and clear platform policies.
+- **Ghosting of Buyers**: On top of sellers, i've experienced no-show buyers, highlighting the need for reminder notifications and clear platform policies.
 - **Hall Clearance Rush**: During end-of-semester clearance, I needed to list multiple items quickly. Bulk listing tools and "free pickup" coordination (mentioned in `marketplace-insights.md`) would have been valuable.
 
 ### Key Insight
-University marketplaces aren't just transactional—they're community-building tools. The chatbot must balance efficiency with trust-building, policy enforcement with education, and automation with human oversight. My design prioritizes safety and clarity because a single negative experience can erode campus-wide trust in the platform.
+I personally think that University marketplaces aren't just transactional, they're community-building tools. The chatbot must balance efficiency with trust-building, policy enforcement with education, and automation with human oversight. My design prioritizes safety and clarity because a single negative experience can erode campus-wide trust in the platform.
 
 ---
 
