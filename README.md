@@ -22,7 +22,7 @@ I took a **structured, safety-first approach** to this assessment:
 
 2. **Testing Strategy**: Developed 44 golden test cases across 5 categories, with a framework that prioritizes safety-critical validation (100% pass required for safety/escalation categories).
 
-3. **Automation Design**: Created a conceptual update workflow with version control, automated testing, deployment gates, and rollback capabilities—designed for real-world maintainability.
+3. **Automation Design**: Created a conceptual update workflow with version control, automated testing, deployment gates, and rollback capabilities; designed for real-world maintainability.
 
 4. **Domain Understanding**: Analyzed campus-specific challenges (academic integrity, seasonal demand, physical safety) to ensure the chatbot aligns with university community needs.
 
