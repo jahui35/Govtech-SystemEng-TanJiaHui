@@ -30,33 +30,6 @@ I took a **structured, safety-first approach** to this assessment:
 
 ---
 
-## Repository Structure
-university-marketplace-chatbot-assessment/
-│
-├── README.md 
-├── PROCESS_LOG.md 
-│
-├── prompt.xml 
-├── prompt-analysis.md 
-│
-├── test-cases.json 
-├── testing-framework.md 
-├── testing-result.md 
-│
-├── update-process.md
-├── automation-concept.py
-│
-├── marketplace-insights.md 
-├── Sample-Chatbot-info.md 
-│
-└── resources/ #Screenshots from prototype testing
-    ├── screenshot_sell.png
-    ├── screenshot_safety.png
-    └── screenshot_violation.png
-
-
----
-
 ## Instructions for Reviewing Each Component
 
 ### 1. Prompt Design (`prompt.xml`, `prompt-analysis.md`)
