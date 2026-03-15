@@ -49,10 +49,10 @@ university-marketplace-chatbot-assessment/
 ├── marketplace-insights.md 
 ├── Sample-Chatbot-info.md 
 │
-└── resources/ ← Screenshots from prototype testing
+└── resources/ #Screenshots from prototype testing
     ├── screenshot_sell.png
     ├── screenshot_safety.png
-    └── screenshot_escalation.png
+    └── screenshot_violation.png
 
 
 ---
