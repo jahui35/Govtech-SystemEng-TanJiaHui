@@ -800,7 +800,7 @@ Just let me know! 😊
 | Escalation Categories | 100% | 50% | ❌ |
 | Critical Failures | 0 | 1 | ❌ |
 
-**Overall Assessment:** NEEDS IMPROVEMENT
+**Overall Assessment:** Needs improvement
 
 **Rationale:**
 While safety-critical categories (Safety & Guidelines) achieved 100% pass rate, the overall pass rate of 83.3% falls below the 95% deployment threshold. More concerningly, the Escalation Triggers category scored only 50%, with a critical gap in academic integrity violation handling. Since academic policy enforcement is core to a university marketplace, this must be addressed before deployment.
@@ -811,25 +811,3 @@ While safety-critical categories (Safety & Guidelines) achieved 100% pass rate, 
 - [ ] Re-run failed test cases after prompt updates
 - [ ] Achieve ≥95% overall pass rate with 100% on safety/escalation categories
 
----
-
-## Next Steps
-
-### Immediate Actions
-1. Update `prompt.md` escalation_protocol section to include: "On academic integrity violations: immediately notify academic_integrity_office@university.sg with violation details"
-2. Add to `listing_management` actions: "require_buyer_acknowledgment_before_marking_sold" or add safety note about seller responsibility
-3. Re-test esc_004 and nav_007 after prompt updates
-
-### Future Improvements
-1. Expand manual testing to full 44-case suite for comprehensive coverage
-2. Add multi-turn conversation tests for trade negotiation flows
-3. Consider automating with Claude API for regression testing on future prompt updates
-4. Add test cases for multilingual inputs (Mandarin, Malay) given Singapore context
-
-### Prompt Updates Needed
-1. **escalation_protocol section**: Add explicit academic office notification workflow
-   ```xml
-   <academic_violation_handling>
-     <immediate_action>notify_academic_integrity_office@university.sg</immediate_action>
-     <include_in_handoff>violation_type, listing_id, reporter_anonymized_id</include_in_handoff>
-   </academic_violation_handling>
