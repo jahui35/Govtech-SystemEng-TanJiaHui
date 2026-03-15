@@ -3,7 +3,7 @@
 # UniMarketplace Chatbot Assessment Submission
 ## Systems Engineer: EPS GenAI Chatbot Intern Take-Home Assessment
 
-**Candidate:** [Your Name]  
+**Candidate:** Tan Jia Hui 
 **Submission Date:** 2026-03-15  
 **Repository:** https://github.com/jahui35/university-marketplace-chatbot-assessment  
 **Prototype Demo:** https://huggingface.co/spaces/jahui35/unimarketplace-chatbot
