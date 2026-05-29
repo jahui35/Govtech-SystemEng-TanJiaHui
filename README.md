@@ -7,7 +7,6 @@
 **Submission Date:** 2026-03-15  
 **Repository:** https://github.com/jahui35/university-marketplace-chatbot-assessment  
 **Prototype Demo:** https://huggingface.co/spaces/jahui35/unimarketplace-chatbot (If the chatbot is down, please do contact me, the website may be reloading)
-
 **Application Status:** I got accepted! :D
 
 ---
